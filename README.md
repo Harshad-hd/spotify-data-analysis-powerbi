@@ -15,7 +15,7 @@ _An interactive Power BI dashboard providing insights into listening habits, tra
 - <a href="#contact">Contact</a>
 
 ---
-<h2><a class="anchor" id="project-overview"></a>project-overview</h2>
+<h2><a class="anchor" id="project-overview"></a>Project Overview</h2>
 
 This project analyzes a dataset of Spotify tracks to uncover trends and patterns in music. The primary goal is to explore the relationships between audio features (like danceability, energy, and valence) and track popularity. The final output is an interactive and user-friendly dashboard built in Power BI that allows users to dynamically explore the findings.
 
@@ -41,7 +41,7 @@ Key Features Include:
 
 **track_name**: Name of the track.
 
-**opularity**: The popularity of the song, from 0 to 100.
+**popularity**: The popularity of the song, from 0 to 100.
 
 **duration_ms**: The duration of the track in milliseconds.
 
@@ -107,7 +107,7 @@ To explore the dashboard and the analysis yourself:
 ---
 <h2><a class="anchor" id="contact"></a>📞 Contact</h2>
 
-**Harshad Mourya**
-Data Analyst
-📧 Email: mouryaharshad@gmail.com
+**Harshad Mourya**<br>
+Data Analyst<br>
+📧 Email: mouryaharshad@gmail.com<br>
 🔗 [LinkedIn](https://www.linkedin.com/in/harshad-mourya/)
